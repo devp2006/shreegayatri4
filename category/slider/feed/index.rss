@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Slider &#8211; Gayatri Engineering</title>
+	<atom:link href="http://shreegayatriandco.com/category/slider/feed/" rel="self" type="application/rss+xml" />
+	<link>http://shreegayatriandco.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Nov 2018 11:43:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.9</generator>
+	<item>
+		<title>Banner 3</title>
+		<link>http://shreegayatriandco.com/banner-3/</link>
+		<comments>http://shreegayatriandco.com/banner-3/#respond</comments>
+		<pubDate>Thu, 24 Aug 2017 06:44:02 +0000</pubDate>
+		<dc:creator><![CDATA[gayatri_engg]]></dc:creator>
+				<category><![CDATA[Slider]]></category>
+
+		<guid isPermaLink="false">http://3dprintersinindia.com/sites/gayatri_engg/?p=97</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://shreegayatriandco.com/banner-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Banner2</title>
+		<link>http://shreegayatriandco.com/banner2/</link>
+		<comments>http://shreegayatriandco.com/banner2/#respond</comments>
+		<pubDate>Thu, 24 Aug 2017 06:43:41 +0000</pubDate>
+		<dc:creator><![CDATA[gayatri_engg]]></dc:creator>
+				<category><![CDATA[Slider]]></category>
+
+		<guid isPermaLink="false">http://3dprintersinindia.com/sites/gayatri_engg/?p=92</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://shreegayatriandco.com/banner2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Banner 4</title>
+		<link>http://shreegayatriandco.com/banner-4/</link>
+		<comments>http://shreegayatriandco.com/banner-4/#respond</comments>
+		<pubDate>Thu, 24 Aug 2017 06:44:24 +0000</pubDate>
+		<dc:creator><![CDATA[gayatri_engg]]></dc:creator>
+				<category><![CDATA[Slider]]></category>
+
+		<guid isPermaLink="false">http://3dprintersinindia.com/sites/gayatri_engg/?p=99</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://shreegayatriandco.com/banner-4/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Banner 1</title>
+		<link>http://shreegayatriandco.com/banner-1/</link>
+		<comments>http://shreegayatriandco.com/banner-1/#respond</comments>
+		<pubDate>Fri, 18 Aug 2017 06:29:21 +0000</pubDate>
+		<dc:creator><![CDATA[gayatri_engg]]></dc:creator>
+				<category><![CDATA[Slider]]></category>
+
+		<guid isPermaLink="false">http://localhost/gayatri_engg/?p=18</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://shreegayatriandco.com/banner-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
