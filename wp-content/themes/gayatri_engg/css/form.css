@@ -1,0 +1,113 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
+
+.container {
+	max-width:100%;
+	width:100%;
+	position:relative;
+}
+
+
+#contactForm {
+	padding:1px 15px 15px 0px;
+	margin-top: 0px;
+	margin-right: 0;
+	margin-bottom: 1px;
+	margin-left: 0;
+}
+
+
+#contactForm h3 {
+	color: #0066cc;
+	display: block;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+#contactForm h4 {
+	margin:0px 0 15px;
+	display:block;
+	font-size:13px;
+}
+
+fieldset {
+	border: medium none !important;
+	margin: 0 0 10px;
+	min-width: 100%;
+	padding: 0;
+	width: 100%;
+}
+
+#contactForm input[type="text"], #contactForm input[type="email"], #contactForm input[type="tel"], #contactForm input[type="url"], #contactForm textarea {
+	width:100%;
+	border:1px solid #fff;
+	margin:0 0 0px;
+	padding:12px 10px;
+	font-family: 'Roboto', sans-serif;
+	border-radius: 3px;
+}
+
+#contactForm textarea {
+	width:100%;
+	height:100px;
+	border:1px solid #fff;
+	margin:0 0 0px;
+	padding:12px 10px;
+	border-radius: 3px;
+	font-family: 'Roboto', sans-serif !important;
+	font-size:12px !important;
+}
+
+#contactForm button[type="submit"] {
+	cursor:pointer;
+	width:25%;
+	border:none;
+	font-size:13px !important;
+	background:#111 !important;
+	color:#fff !important;
+	font-family: 'Roboto', sans-serif !important;
+	padding:10px;
+	font-size:14px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 1px;
+	border: 0px solid;
+    border-radius: 10px;
+}
+
+#contactForm button[type="submit"]:hover {
+	background:#ccc !important;
+	-webkit-transition:background 0.3s ease-in-out;
+	-moz-transition:background 0.3s ease-in-out;
+	transition:background-color 0.3s ease-in-out;
+	color: #111 !important;
+}
+
+
+#contactForm button[type="submit"]:active { box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.5); }
+
+#contactForm input:focus, #contactForm textarea:focus {
+	outline:0;
+	border:1px solid #e5e5e5;
+}
+::-webkit-input-placeholder {
+ color:#989898 !important;
+ font-size:12px !important;
+}
+:-moz-placeholder {
+ color:#989898 !important;
+ font-size:12px !important;
+}
+::-moz-placeholder {
+ color:#989898 !important;
+ font-size:12px !important;
+}
+:-ms-input-placeholder {
+ color:#989898 !important;
+ font-size:12px !important;
+}
+#contactForm input[type="text"], #contactForm input[type="email"], #contactForm input[type="tel"], #contactForm input[type="url"], #contactForm textarea{
+border:1px solid #e5e5e5 !important;
+font-size:12px !important;
+font-family:'Roboto', sans-serif !important;
+}
