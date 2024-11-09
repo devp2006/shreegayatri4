@@ -1,0 +1,780 @@
+Uri: http://shreegayatriandco.com/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/css/style_wp.css
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\css\style_wp.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/css/form.css
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\css\form.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/engine1/style.css
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\engine1\style.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/comments/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/style.css?ver=4.8.9
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\style.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/wp-json/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\index.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/xmlrpc.php?rsd
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-includes/wlwmanifest.xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/about-us/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\about-us\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/d-f-ball-pen-ink-filling-machine/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\d-f-ball-pen-ink-filling-machine\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/d-f-ball-pen-ink-chamfering-machine/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\d-f-ball-pen-ink-chamfering-machine\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/ball-pen-assembly-machine/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\ball-pen-assembly-machine\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/centrifugal-machine/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\centrifugal-machine\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/dust-collector/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\dust-collector\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/refill-ink-filling-machine-drum-type/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\refill-ink-filling-machine-drum-type\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/df-hot-foil-embossing-machine/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\df-hot-foil-embossing-machine\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/products/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\products\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/contact-us/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/assets/css/owl.theme.default.min.css
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/assets/css/docs.theme.min.css
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\assets\css\docs.theme.min.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/assets/owlcarousel/assets/owl.carousel.min.css
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\assets\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/assets/owlcarousel/assets/owl.theme.default.min.css
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\assets\owlcarousel\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/carouselengine/initcarousel-1.css
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\carouselengine\initcarousel-1.css
+Content Type: text/css
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/engine1/jquery.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\engine1\jquery.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/logo.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\logo.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/i1.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\i1.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/i2.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\i2.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/i3.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\i3.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/i4.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\i4.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider3.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider3.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider2.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider2.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider4.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider4.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider1.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider1.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_hot_foil_embossing_machine.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_hot_foil_embossing_machine.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/ball_pen_assembly_machine.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\ball_pen_assembly_machine.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/dust_collector.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\dust_collector.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_ball_pen_inc_chamfering_machine.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_ball_pen_inc_chamfering_machine.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/3.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\3.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/2.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\2.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/1.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\1.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-includes/js/wp-embed.min.js?ver=4.8.9
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/js/jquery.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/js/jquery-edit.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\js\jquery-edit.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/carouselengine/jquery.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\carouselengine\jquery.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/assets/vendors/jquery.min.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\assets\vendors\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/assets/owlcarousel/owl.carousel.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\assets\owlcarousel\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/carouselengine/amazingcarousel.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\carouselengine\amazingcarousel.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/carouselengine/initcarousel-1.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\carouselengine\initcarousel-1.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/engine1/wowslider.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\engine1\wowslider.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/engine1/script.js
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\engine1\script.js
+Content Type: application/javascript
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_hot_foil_embossing_machine-150x150.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_hot_foil_embossing_machine-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_hot_foil_embossing_machine-300x300.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_hot_foil_embossing_machine-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/ball_pen_assembly_machine-150x150.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\ball_pen_assembly_machine-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/ball_pen_assembly_machine-300x300.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\ball_pen_assembly_machine-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/dust_collector-150x150.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\dust_collector-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/dust_collector-300x300.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\dust_collector-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_ball_pen_inc_chamfering_machine-150x150.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_ball_pen_inc_chamfering_machine-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_ball_pen_inc_chamfering_machine-300x300.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_ball_pen_inc_chamfering_machine-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/engine1/bullet.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\engine1\bullet.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/engine1/arrows.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\engine1\arrows.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/engine1/triangle.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\engine1\triangle.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/slider_bg.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\slider_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/top.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\top.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/top-b.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\top-b.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/images/bulet1.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\images\bulet1.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fabout-us%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fabout-us%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/about.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\about.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/about-150x150.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\about-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/about-300x300.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\about-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/d-f-ball-pen-ink-filling-machine/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\d-f-ball-pen-ink-filling-machine\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/centrifugal-machine-2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\centrifugal-machine-2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/banner-4/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\banner-4\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fd-f-ball-pen-ink-filling-machine%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fd-f-ball-pen-ink-filling-machine%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_ball_penink_filling_machine.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_ball_penink_filling_machine.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_ball_penink_filling_machine-150x150.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_ball_penink_filling_machine-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/df_ball_penink_filling_machine-300x300.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\df_ball_penink_filling_machine-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/d-f-ball-pen-ink-chamfering-machine/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\d-f-ball-pen-ink-chamfering-machine\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/refill-ink-filling-machine-drum-type-2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\refill-ink-filling-machine-drum-type-2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fd-f-ball-pen-ink-chamfering-machine%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fd-f-ball-pen-ink-chamfering-machine%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/ball-pen-assembly-machine/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\ball-pen-assembly-machine\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fball-pen-assembly-machine%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fball-pen-assembly-machine%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/centrifugal-machine/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\centrifugal-machine\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcentrifugal-machine%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcentrifugal-machine%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/centrifugal_machine.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\centrifugal_machine.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/centrifugal_machine-150x150.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\centrifugal_machine-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/centrifugal_machine-300x300.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\centrifugal_machine-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/dust-collector/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\dust-collector\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fdust-collector%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fdust-collector%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/refill-ink-filling-machine-drum-type/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\refill-ink-filling-machine-drum-type\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Frefill-ink-filling-machine-drum-type%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Frefill-ink-filling-machine-drum-type%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/refill_ink_filling_machine_drum_type.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\refill_ink_filling_machine_drum_type.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/refill_ink_filling_machine_drum_type-150x150.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\refill_ink_filling_machine_drum_type-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/refill_ink_filling_machine_drum_type-300x300.jpg
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\refill_ink_filling_machine_drum_type-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://shreegayatriandco.com/df-hot-foil-embossing-machine/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\df-hot-foil-embossing-machine\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/banner-1/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\banner-1\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fdf-hot-foil-embossing-machine%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fdf-hot-foil-embossing-machine%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fproducts%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fproducts%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcontact-us%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcontact-us%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-content/themes/gayatri_engg/assets/owlcarousel/assets/owl.video.play.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\themes\gayatri_engg\assets\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/centrifugal-machine-2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\centrifugal-machine-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcentrifugal-machine-2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcentrifugal-machine-2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/category/projects_home_page/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\category\projects_home_page\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/banner-4/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\banner-4\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/banner2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\banner2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fbanner-4%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fbanner-4%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/category/slider/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\category\slider\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider4-750x222.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider4-750x222.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider4-300x89.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider4-300x89.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider4-768x228.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider4-768x228.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider4-1024x304.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider4-1024x304.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/refill-ink-filling-machine-drum-type-2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\refill-ink-filling-machine-drum-type-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Frefill-ink-filling-machine-drum-type-2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Frefill-ink-filling-machine-drum-type-2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/banner-1/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\banner-1\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/hello-world/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\hello-world\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fbanner-1%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fbanner-1%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider1-750x222.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider1-750x222.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider1-300x89.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider1-300x89.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider1-768x228.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider1-768x228.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider1-1024x304.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider1-1024x304.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/category/projects_home_page/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\category\projects_home_page\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/df-hot-foil-embossing-machine-2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\df-hot-foil-embossing-machine-2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/ball-pen-assembly-machine-2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\ball-pen-assembly-machine-2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/dust-collector-2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\dust-collector-2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/d-f-ball-pen-ink-chamfering-machine-2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\d-f-ball-pen-ink-chamfering-machine-2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/d-f-ball-pen-ink-filling-machine-2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\d-f-ball-pen-ink-filling-machine-2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/banner2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\banner2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/banner-3/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\banner-3\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fbanner2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fbanner2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider2-750x222.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider2-750x222.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider2-300x89.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider2-300x89.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider2-768x228.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider2-768x228.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider2-1024x304.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider2-1024x304.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/category/slider/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\category\slider\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider3-750x222.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider3-750x222.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider3-300x89.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider3-300x89.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider3-768x228.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider3-768x228.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/wp-content/uploads/2017/08/slider3-1024x304.png
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-content\uploads\2017\08\slider3-1024x304.png
+Content Type: image/png
+
+Uri: http://shreegayatriandco.com/hello-world/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\hello-world\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fhello-world%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fhello-world%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/category/uncategorized/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/df-hot-foil-embossing-machine-2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\df-hot-foil-embossing-machine-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/certificate-2/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\certificate-2\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/certificate-3/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\certificate-3\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fdf-hot-foil-embossing-machine-2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fdf-hot-foil-embossing-machine-2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/ball-pen-assembly-machine-2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\ball-pen-assembly-machine-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/certificate-1/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\certificate-1\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fball-pen-assembly-machine-2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fball-pen-assembly-machine-2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/dust-collector-2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\dust-collector-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fdust-collector-2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fdust-collector-2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-19.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/d-f-ball-pen-ink-chamfering-machine-2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\d-f-ball-pen-ink-chamfering-machine-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fd-f-ball-pen-ink-chamfering-machine-2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fd-f-ball-pen-ink-chamfering-machine-2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-20.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/d-f-ball-pen-ink-filling-machine-2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\d-f-ball-pen-ink-filling-machine-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fd-f-ball-pen-ink-filling-machine-2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-21.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fd-f-ball-pen-ink-filling-machine-2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-21.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/banner-3/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\banner-3\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fbanner-3%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-22.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fbanner-3%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-22.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/category/uncategorized/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\category\uncategorized\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/certificate-2/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\certificate-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcertificate-2%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-23.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcertificate-2%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-23.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/category/certificate/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\category\certificate\index.htm
+Content Type: text/html
+
+Uri: http://shreegayatriandco.com/certificate-3/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\certificate-3\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcertificate-3%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-24.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcertificate-3%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-24.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/certificate-1/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\certificate-1\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcertificate-1%2F
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-25.json
+Content Type: application/json
+
+Uri: http://shreegayatriandco.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fshreegayatriandco.com%2Fcertificate-1%2F&format=xml
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\wp-json\oembed\1.0\embed-25.xml
+Content Type: text/xml
+
+Uri: http://shreegayatriandco.com/category/certificate/feed/
+File Name: D:\Downloaded Web Sites\shreegayatriandco.com\category\certificate\feed\index.rss
+Content Type: application/rss+xml
+
